@@ -4,6 +4,14 @@
         <title>CleanSlate</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sun, 14 Jul 2024 20:32:12 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/beta-1.0.0/CleanSlate.dmg" length="39610790" type="application/octet-stream" sparkle:edSignature="vPNY0hPq5qBNTCgi6VPVcRLsRSzNZmEZvrMhQHJOpJ9vNhb8l9DvjL0tLiEy/jynN8WDU5vxL80VAhVbwTGDAg=="/>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sun, 14 Jul 2024 20:17:31 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
