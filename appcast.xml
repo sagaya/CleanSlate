@@ -3,6 +3,14 @@
     <channel>
         <title>CleanSlate</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 22 Aug 2024 09:51:34 -0400</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://sagaya.github.io/CleanSlate/CleanSlate.dmg" length="40571307" type="application/octet-stream" sparkle:edSignature="KyjqeFZ76x6a0Tk6/SJe+1oDZBcrFJygby7LyiQX3A67CsVjluciSGwadqYHfSzqb/ohcbCl2kSY0fDzlT1sDQ=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Thu, 08 Aug 2024 23:43:53 +0100</pubDate>
             <sparkle:version>15</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/beta-1.0.0/CleanSlate.dmg" length="40542133" type="application/octet-stream" sparkle:edSignature="jqWBGl96eZO/sCmymMPfJMa8b1I6KZSzUW080vHiXkhZrIlFEX1JEIINNmBhfyYmDa5Lc4WQjoqspAOktzxXDw=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sat, 27 Jul 2024 16:34:05 +0100</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/beta-1.0.0/CleanSlate.dmg" length="41232396" type="application/octet-stream" sparkle:edSignature="2T3GSIR+lb0v/CB7wRGibm7mfq43+f8GVPvp3ykllaUjrLe5OAdjmudtSWMvINVjx/RSnsNH92BzNmJvFcazBA=="/>
         </item>
     </channel>
 </rss>
