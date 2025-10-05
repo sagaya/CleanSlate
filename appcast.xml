@@ -8,7 +8,7 @@
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.2/CleanSlate.dmg" length="40571307" type="application/octet-stream" sparkle:edSignature="mjR1Nef1Pbor833bZ/MG3kAR0rofuDJ/D7959/ULaFm3X0nVPXhefLQGOZppWb4qp+zbfhMbkXHke80ORy88DA=="/>
+            <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.2/CleanSlate.dmg" length="47584301" type="application/octet-stream" sparkle:edSignature="BwAwzd0NthUQBjYvXhvg6ZTDS6ZmV3IN7D/m4TavJbT8dqIc0aUmL252qMeF90fD6czxAc2r0TDb1zozY1R9AA=="/>
         </item>
         <item>
             <title>1.0.1</title>
