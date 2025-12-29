@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Xcode / Swift
+build/
+DerivedData/
+*.xcuserdatad/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+
+# App bundles & archives
+*.app/
+*.ipa
+*.zip
+*.tar
+*.tar.gz
+
+# Disk images
+*.dmg
+
+# Local scripts (don’t commit release helper)
+release_macos.sh
+release.sh
+# Swift Package Manager
+/.build/
+Package.resolved
+
+# CocoaPods (if used)
+Pods/
