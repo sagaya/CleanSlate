@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>CleanSlate</title>
@@ -9,12 +9,7 @@
       <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.2/CleanSlate.dmg"
-        length="47584301"
-        type="application/octet-stream"
-        sparkle:edSignature="BwAwzd0NthUQBjYvXhvg6ZTDS6ZmV3IN7D/m4TavJbT8dqIc0aUmL252qMeF90fD6czxAc2r0TDb1zozY1R9AA=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.2/CleanSlate.dmg" length="47584301" type="application/octet-stream" sparkle:edSignature="BwAwzd0NthUQBjYvXhvg6ZTDS6ZmV3IN7D/m4TavJbT8dqIc0aUmL252qMeF90fD6czxAc2r0TDb1zozY1R9AA==" />
     </item>
 
     <item>
@@ -23,12 +18,7 @@
       <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.1/CleanSlate.dmg"
-        length="40560762"
-        type="application/octet-stream"
-        sparkle:edSignature="OPeNqaod9jLeIgYio9ouJmoDosxjm5yN3Ob+v2fyjT8zwqufPmoDyCpuYd1Rm9o1sDTVT7nIKQYRfHDoMS6rAw=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.1/CleanSlate.dmg" length="40560762" type="application/octet-stream" sparkle:edSignature="OPeNqaod9jLeIgYio9ouJmoDosxjm5yN3Ob+v2fyjT8zwqufPmoDyCpuYd1Rm9o1sDTVT7nIKQYRfHDoMS6rAw==" />
     </item>
 
     <item>
@@ -37,12 +27,7 @@
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/beta-1.0.0/CleanSlate.dmg"
-        length="40542133"
-        type="application/octet-stream"
-        sparkle:edSignature="jqWBGl96eZO/sCmymMPfJMa8b1I6KZSzUW080vHiXkhZrIlFEX1JEIINNmBhfyYmDa5Lc4WQjoqspAOktzxXDw=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/beta-1.0.0/CleanSlate.dmg" length="40542133" type="application/octet-stream" sparkle:edSignature="jqWBGl96eZO/sCmymMPfJMa8b1I6KZSzUW080vHiXkhZrIlFEX1JEIINNmBhfyYmDa5Lc4WQjoqspAOktzxXDw==" />
     </item>
 
     <item>
@@ -51,12 +36,7 @@
       <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.3/CleanSlate.dmg"
-        length="47683134"
-        type="application/octet-stream"
-        sparkle:edSignature="34PuDaLai1NnyRBswvsmisWsuRdNkq5oQMhMTF5OBc8x6kdBAy2QTwXQ6ueak7CRIa4ZTNCvswMen001WW0qDg=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.3/CleanSlate.dmg" length="47683134" type="application/octet-stream" sparkle:edSignature="34PuDaLai1NnyRBswvsmisWsuRdNkq5oQMhMTF5OBc8x6kdBAy2QTwXQ6ueak7CRIa4ZTNCvswMen001WW0qDg==" />
     </item>
 
     <item>
@@ -65,12 +45,7 @@
       <sparkle:version>19</sparkle:version>
       <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.4/CleanSlate.dmg"
-        length="48410507"
-        type="application/octet-stream"
-        sparkle:edSignature="XA6ptmk+CnkEArmJrBquGUxqSbIhrALSqR0/QwMtw2hdDNobIm8+u9wUJDYP/DigAWq24LFAth0L33IG6poEAw=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.4/CleanSlate.dmg" length="48410507" type="application/octet-stream" sparkle:edSignature="XA6ptmk+CnkEArmJrBquGUxqSbIhrALSqR0/QwMtw2hdDNobIm8+u9wUJDYP/DigAWq24LFAth0L33IG6poEAw==" />
     </item>
 
     <item>
@@ -79,12 +54,7 @@
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.5/CleanSlate.dmg"
-        length="48632027"
-        type="application/octet-stream"
-        sparkle:edSignature="o6t/SuIl1eLnabwd7KkoNBHLZIJXEdG6ZFceEVkYH5QHsxVCljk9LL8RBJs6ctOK+d86wwpfb42fzTEd/mONDg=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.5/CleanSlate.dmg" length="48632027" type="application/octet-stream" sparkle:edSignature="o6t/SuIl1eLnabwd7KkoNBHLZIJXEdG6ZFceEVkYH5QHsxVCljk9LL8RBJs6ctOK+d86wwpfb42fzTEd/mONDg==" />
     </item>
 
     <item>
@@ -93,12 +63,7 @@
       <sparkle:version>21</sparkle:version>
       <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.6/CleanSlate.dmg"
-        length="48646373"
-        type="application/octet-stream"
-        sparkle:edSignature="L6gf9J/+fLHdGflHN1a/7mOY5kNu57gk8wcSrL/pSPjxplkIwRYKEve21oCi+sK1Wsw7qAEr1VMkmtJk7tjIBg=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.6/CleanSlate.dmg" length="48646373" type="application/octet-stream" sparkle:edSignature="L6gf9J/+fLHdGflHN1a/7mOY5kNu57gk8wcSrL/pSPjxplkIwRYKEve21oCi+sK1Wsw7qAEr1VMkmtJk7tjIBg==" />
     </item>
 
     <item>
@@ -107,13 +72,8 @@
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.7/CleanSlate.dmg"
-        length="48725320"
-        type="application/octet-stream"
-        sparkle:edSignature="6IfX4pskyLdfyLOPFJNud+u2nJMlGNNIRqInoQjxShB6Z/Y4P1beiYHVKKbLhQs3ztE6goxrAalpsKtoemrpAg=="
-      />
-    </item>
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.7/CleanSlate.dmg" length="48725320" type="application/octet-stream" sparkle:edSignature="6IfX4pskyLdfyLOPFJNud+u2nJMlGNNIRqInoQjxShB6Z/Y4P1beiYHVKKbLhQs3ztE6goxrAalpsKtoemrpAg==" />
+    <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.9/CleanSlate.dmg" length="59535319" type="application/octet-stream" sparkle:edSignature="dmY5XqdKpP80vgS70SBNivIKoBne/kyll2/5zGr/XwAUx+nD9AyFF5SQT2i3m15R7TgKDJhOHQ6QBFO7vzzmCg==" /></item>
 
     <item>
       <title>1.0.8</title>
@@ -121,13 +81,8 @@
       <sparkle:version>23</sparkle:version>
       <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.8/CleanSlate.dmg"
-        length="49152645"
-        type="application/octet-stream"
-        sparkle:edSignature="0aPBOcD+P1+20OGeVCYW7VkMp/gUfQYjwKObawfJ8SljkqtzMFwyEfPIX1gs7ytXcCvQ7jB0ya34sNuLVc7eAA=="
-      />
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.0.8/CleanSlate.dmg" length="49152645" type="application/octet-stream" sparkle:edSignature="0aPBOcD+P1+20OGeVCYW7VkMp/gUfQYjwKObawfJ8SljkqtzMFwyEfPIX1gs7ytXcCvQ7jB0ya34sNuLVc7eAA==" />
     </item>
 
-  </channel>
+  <title>CleanSlate</title></channel>
 </rss>
