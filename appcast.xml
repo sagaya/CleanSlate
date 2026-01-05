@@ -92,5 +92,13 @@
       <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.1.0/CleanSlate.dmg" length="59495387" type="application/octet-stream" sparkle:edSignature="hL4rLWZ4SPjEvAuA4JLFP1mif0ztVAyKO7To4sw0fY5I7IPbkhq3+Xxbw3Nd3+4hl2yDQjdZB2jAQvuKcwMdBA==" />
     </item>
+    <item>
+      <title>1.1.1</title>
+      <pubDate>Sun, 04 Jan 2026 19:36:09 -0500</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/sagaya/CleanSlate/releases/download/v1.1.1/CleanSlate.dmg" length="59510610" type="application/octet-stream" sparkle:edSignature="zUkpnlGcgnTlDl9kvZzVTzCgp4jqDBPrziXXvdAt3ktblfkYZ9aYPahcIp8u2Qh2fTYmX2XkF2bCDxkduR/+DQ==" />
+    </item>
   </channel>
 </rss>
